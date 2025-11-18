@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     background: linear-gradient(#4d90ac79,#3678cf6e);
+    min-height: 100vh;
 }
 .header {
     display: flex;
