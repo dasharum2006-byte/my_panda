@@ -26,8 +26,9 @@
     list-style: none;
     padding-left: 0;
     box-sizing: border-box;
-    justify-content: space-between;
+    justify-content: center;
     flex-direction: row;
+
 }
 .logo {
     width: 40px;
