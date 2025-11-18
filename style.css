@@ -5,11 +5,14 @@
     background: linear-gradient(#4d90ac79,#3678cf6e);
     min-height: 100vh;
 }
-.header {
+.headerparent {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: white;
     padding: 20px;
-
+    text-align: start;
+    border: 2px;
+}
+.headerchild  {
+    border: 2px;
 }
